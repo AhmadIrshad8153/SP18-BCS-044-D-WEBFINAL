@@ -1,0 +1,216 @@
+
+.plz{
+    position: relative;
+    color:white;
+    text-align: center;
+    }
+    
+    .cent {
+      position: absolute;
+      top: 55%;
+      left: 70%;
+      transform: translate(-50%, -50%);
+    }
+    .ios{
+        
+      position: absolute;
+      top: 60%;
+      left: 60%;
+      transform: translate(-50%,-50%);
+      
+      }
+      
+      .and{
+        position: absolute;
+        top: 60%;
+        left: 80%;
+        transform: translate(-50%,-50%);
+        }
+    
+        .cent2{
+          position: absolute;
+          top: 65%;
+          left: 70%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .p1{
+          position: absolute;
+          top: 70%;
+          left: 49%;
+          transform: translate(-50%,-50%);
+        }
+        .p2{
+          position: absolute;
+          top: 70%;
+          left: 62%;
+          transform: translate(-50%,-50%);
+        }
+        .p3{
+          position: absolute;
+          top: 70%;
+          left: 74%;
+          transform: translate(-50%,-50%);
+        }
+        .p4{
+          position: absolute;
+          top: 70%;
+          left: 86%;
+          transform: translate(-50%,-50%);
+        }
+        .p5{
+          position: absolute;
+          top: 70%;
+          left: 95%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .p6{
+          position: absolute;
+          top: 77%;
+          left: 70%;
+          transform: translate(-50%,-50%);
+        }
+    
+        .x1{
+          position: absolute;
+          top: 86%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .l1{
+          position: absolute;
+          top: 86%;
+          left: 55%;
+          transform: translate(-50%,-50%);
+        }
+        .x2{
+          position: absolute;
+          top: 86%;
+          left: 60%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .l2{
+          position: absolute;
+          top: 86%;
+          left: 65%;
+          transform: translate(-50%,-50%);
+        }
+        .x3{
+          position: absolute;
+          top: 86%;
+          left: 90%;
+          transform: translate(-50%,-50%);
+        }
+        .l3{
+          position: absolute;
+          top: 86%;
+          left: 86%;
+          transform: translate(-50%,-50%);
+        }
+        .x4{
+          position: absolute;
+          top: 86%;
+          left: 70%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .l4{
+          position: absolute;
+          top: 86%;
+          left: 75%;
+          transform: translate(-50%,-50%);
+        }
+        .x5{
+          position: absolute;
+          top: 86%;
+          left: 80%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .x6{
+          position: absolute;
+          top: 91%;
+          left: 52%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .fooa{
+          position: absolute;
+          top: 91%;
+          left: 65%;
+          transform: translate(-50%,-50%);
+        }
+        .fooi{
+          position: absolute;
+          top: 91%;
+          left: 60%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .l5{
+          position: absolute;
+          top: 91%;
+          left: 68%;
+          transform: translate(-50%,-50%);
+        }
+        .x7{
+          position: absolute;
+          top: 91%;
+          left: 73%;
+          transform: translate(-50%,-50%);
+        }
+        .y1{
+          position: absolute;
+          top: 91%;
+          left: 79%;
+          transform: translate(-50%,-50%);
+        }
+        .y2{
+          position: absolute;
+          top: 91%;
+          left: 83%;
+          transform: translate(-50%,-50%);
+        }
+        .y3{
+          position: absolute;
+          top: 91%;
+          left: 87%;
+          transform: translate(-50%,-50%);
+        }
+        .y4{
+          position: absolute;
+          top: 91%;
+          left: 91%;
+          transform: translate(-50%,-50%);
+        }
+      
+        .x8{
+      
+          position: absolute;
+          top: 99%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+        }
+        .h:hover{
+          color: red;
+        }
+        .si{
+          position: absolute;
+          top:1%;
+          left:85%
+        }
+        .li{
+          position: absolute;
+          top:2%;
+          left:91%
+        }
+        .su{
+          position: absolute;
+          top:2%;
+          left:92%
+        }
+      
+  
